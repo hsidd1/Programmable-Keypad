@@ -1,6 +1,6 @@
 # Raspberry Pi Pico Programmable Keypad
 <p align="center">
-<img src="https://i.imgur.com/2nm9x3Y.jpeg" width="800" height="700">
+<img src="https://i.imgur.com/2nm9x3Y.jpeg" width="300" height="300">
 </p>
 
 ### Source code for programmable keypad designed to assist a client with joint pain due to Ehlers-Danlos Syndrome. Built using a Raspberry Pi Pico microcontroller and Python. Case designed in Autodesk Inventor.
