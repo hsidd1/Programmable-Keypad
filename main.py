@@ -85,4 +85,4 @@ while True:
     if btn6.value:
         keyboard.send(Keycode.CONTROL, Keycode.F12) 
         time.sleep(0.1)
-        time.sleep(0.1)
+    time.sleep(0.1)
